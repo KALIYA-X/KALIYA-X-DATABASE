@@ -1,0 +1,30 @@
+{
+
+"BOT_NAME": "FROZEN-MD",
+"VERSION": "2.0.0",
+"CREATED BY": "DARKYASIYAXTEAM",
+  
+"replyMsg": {
+  
+  "giveme": "*Please give me text ❓*",
+
+  "giveut": "*Please give me Url or Text ❓*",
+
+  "not_fo": "*❌ I Couldn't find anything :(*",
+
+  "url": "*Please give me Url ❓*",
+  
+  "valid_url": "*This Url is invalid ❌ Please give me valid Url ❗*",
+
+  "size_big": "*File size is too big ❌*",
+
+  "own_cmd": "*This is Owner Commad ‼*",
+
+  "pre_cmd": "*Your not premier user ❗*",
+
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact FROZEN-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
+
+  "erro": "Error" 
+}
+
+}
