@@ -20,7 +20,29 @@
 
   "own_cmd": "*This is Owner Commad ‼*",
 
-  "pre_cmd": "*Your not premier user ❗*",
+  "pre_cmd": "`Your not premier user` 🚫\n\n* Contact to buy a premium connection for 200 rupees for a month 🌿\n\n* https://wa.me/+94743548986 💝",
+
+  "ald_set": "*Already set* 😒✅",
+
+  "only_gp": "This is group command ❗",
+
+  "inb_cmd": "This is inbox command ❗",
+
+  "give_adm": "Please give me admin first 🤦🏻‍♂️",
+
+  "you_adm": "Your Must Be Admin First 😒",
+
+  "need_jid": "Please give me jid ❓",
+
+  "valid_jid": "*This not jid ❌ Please give me valid jid ❗*",
+
+  "ald_approve_jid": "Jid approve accept ✔",
+
+  "ald_approve_alljid": "All Jid approve accept ✔",
+
+  "ald_reapprove_jid": "Jid approve reject ✔",
+
+  "ald_reapprove_alljid": "All Jid approve reject ✔",
 
   "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact FROZEN-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
 
